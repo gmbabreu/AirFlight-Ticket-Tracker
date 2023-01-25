@@ -11,3 +11,16 @@ departing_code, arriving_code
 **Date:**
 start_month, start_day, start_year 
 end_month, end_day, end_year
+
+
+## Requirements
+
+#### Selenium and Chromedriver
+The python file imports and uses Selenium for the scraping. Selenium requires that Chromedriver is installed in order to access the websites
+
+```bash
+pip3 install selenium
+```
+
+[Downloading Chromedriver](https://chromedriver.chromium.org/getting-started)
+
