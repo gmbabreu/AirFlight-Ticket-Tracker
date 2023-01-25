@@ -13,7 +13,7 @@ start_month, start_day, start_year
 end_month, end_day, end_year
 
 
-## Requirements
+## Setup
 
 #### Selenium and Chromedriver
 The python file imports and uses Selenium library for the scraping. Selenium requires that Chromedriver is installed in order to access the websites
@@ -21,4 +21,6 @@ The python file imports and uses Selenium library for the scraping. Selenium req
 [Downloading Selenium](https://selenium-python.readthedocs.io/installation.html)
 
 [Downloading Chromedriver](https://chromedriver.chromium.org/getting-started)
+
+### Windows Task Scheduler
 
