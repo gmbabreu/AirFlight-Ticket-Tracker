@@ -120,5 +120,7 @@ def skyscanner(wb):
     wb.get_sheet_by_name("skyscanner").append((today, price))
 
     return price
-main()
+
+if __name__ == "__main__":
+    main()
 
