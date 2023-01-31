@@ -5,11 +5,11 @@ Web scraping program that checks flight tickets for a specific destination and d
 #### Variables
 **Departing Information:** 
 - departing = city you are leaving
-- departing_code = airport code for city you are leaving
+- departing_code = code for city you are leaving (airport code or the first three letter of the city should work)
 
 **Destination Information:**
 - destinations = list of cities you want to go to
-- destination_codes = list of airport codes for each of the cities in the destinations list
+- destination_codes = list of codes for each of the cities in the destinations list
 
 **Date:**
 - start_month = month departing
