@@ -123,4 +123,3 @@ def skyscanner(wb):
 
 if __name__ == "__main__":
     main()
-
