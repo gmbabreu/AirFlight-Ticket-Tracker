@@ -29,5 +29,9 @@ The python file imports and uses Selenium library for the scraping. Selenium req
 
 [Downloading Chromedriver](https://chromedriver.chromium.org/getting-started)
 
+### Python file
+
+### XLSX file
+
 ### Windows Task Scheduler
 
