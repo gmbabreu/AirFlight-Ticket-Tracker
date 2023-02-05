@@ -33,7 +33,7 @@ In order to configure the flights you want to search for, you need to fill in th
 
 
 **Example**
-![image](https://user-images.githubusercontent.com/98294696/216842968-6dcf9f03-87e8-4cdf-bdd7-a0e674e7a2c9.png)
+-![image](https://user-images.githubusercontent.com/98294696/216842968-6dcf9f03-87e8-4cdf-bdd7-a0e674e7a2c9.png)
 
 ### XLSX file
 
