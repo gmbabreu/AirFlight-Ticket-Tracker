@@ -5,11 +5,13 @@ Web scraping program that checks flight tickets for a specific destination and d
 ## Setup
 
 #### Selenium and Chromedriver
-The python file imports and uses Selenium library for the scraping. Selenium requires that Chromedriver is installed in order to access the websites
+The python file imports and uses Selenium library for the scraping. Selenium requires that Chromedriver is installed in order to access the websites. It also requires openpyxl in order to manage the excell file.
 
 [Downloading Selenium](https://selenium-python.readthedocs.io/installation.html)
 
 [Downloading Chromedriver](https://chromedriver.chromium.org/getting-started)
+
+[Downloading Openpyxl](https://pypi.org/project/openpyxl/)
 
 ## Python file
 
@@ -46,3 +48,4 @@ There are three sheets on the excell file for each of the websites the program g
 
 ## Windows Task Scheduler
 
+Finally, use the Windows Task Scheduler to configure the file to run everyday
