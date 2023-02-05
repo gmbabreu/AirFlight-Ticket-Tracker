@@ -32,11 +32,18 @@ In order to configure the flights you want to search for, you need to fill in th
 - end_year = year returning
 
 
-**Example**
+*Example*
 
 ![image](https://user-images.githubusercontent.com/98294696/216842968-6dcf9f03-87e8-4cdf-bdd7-a0e674e7a2c9.png)
 
 ## XLSX file
+
+There are three sheets on the excell file for each of the websites the program gets prices from. On each of the sheets, you should put the name of the destination cities in the header (substitute it for city1, city2, city3, etc). They should be in the same order as the destinations list in the python file
+
+*Example*
+
+![image](https://user-images.githubusercontent.com/98294696/216845183-e24bb51f-9841-43da-bec5-072d3926ee8b.png)
+
 
 ## Windows Task Scheduler
 
