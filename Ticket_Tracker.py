@@ -8,21 +8,21 @@ from datetime import date
 from openpyxl import load_workbook
 
 # Departing Information
-departing = "New York"
-departing_code = "NYC"
+departing = ""
+departing_code = ""
 
 # Destination information 
-destinations = ["London", "Paris"]
-destination_codes = ["LON","PAR" ]
+destinations = ["", ""]
+destination_codes = ["","" ]
 
 # Dates
-start_month = "11"
-start_day = "30"
-start_year = "2023"
+start_month = ""
+start_day = ""
+start_year = ""
 
-end_month = "12"
-end_day = "26"
-end_year = "2023"
+end_month = ""
+end_day = ""
+end_year = ""
 
 # Set up driver and date
 driver = webdriver.Chrome()
