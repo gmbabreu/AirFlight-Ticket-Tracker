@@ -42,8 +42,7 @@ There are three sheets on the excell file for each of the websites the program g
 
 *Example*
 
-![image](https://user-images.githubusercontent.com/98294696/216845183-e24bb51f-9841-43da-bec5-072d3926ee8b.png)
-
+![image](https://user-images.githubusercontent.com/98294696/216845293-fe7916d1-42c5-4bd2-b527-b17830c4a78a.png)
 
 ## Windows Task Scheduler
 
